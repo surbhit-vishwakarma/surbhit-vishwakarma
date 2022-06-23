@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surbhit Vishwakarma</h1>
-<h3 align="center">ASE at Hansen Technologies</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhit-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="surbhit-vishwakarma" /> </p>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Data Structutres and Algorithm**
 
