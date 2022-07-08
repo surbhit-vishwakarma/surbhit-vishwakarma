@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surbhit Vishwakarma</h1>
+<h1 align="center">Hi 👋 I'm Surbhit Vishwakarma</h1>
 <h3 align="center">Backend Developer</h3>
 <p><img align = "right" src ="https://github.com/surbhit-vishwakarma/surbhit-vishwakarma/blob/main/e426702edf874b181aced1e2fa5c6cde.gif" width ="500" height = "320" /> </p>
 - 🌱 I’m currently learning **Data Structutres and Algorithm**
