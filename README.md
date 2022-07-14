@@ -15,4 +15,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhit-vishwakarma&" alt="surbhit-vishwakarma" /></p>
 
 <h3 align="left">LeetCode Badges</h3>
-<p align="left"> <a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.png" alt="c" width="80" height="80"/> </a></p>
+<p align="left"> <a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/surbhit-vishwakarma/surbhit-vishwakarma/blob/main/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" alt="c" width="80" height="80"/> </a></p>
