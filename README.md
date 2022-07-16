@@ -1,10 +1,14 @@
+<p align="right"> <a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/surbhit-vishwakarma/surbhit-vishwakarma/blob/main/ezgif-2-5660d73aa6.gif" alt="c" width="1000" height="320"/> </a></p>
 <h1 align="center">Hi 👋 I'm Surbhit Vishwakarma</h1>
 <h3 align="center">Backend Developer</h3>
+
 - 🌱 I’m currently learning **Data Structutres and Algorithm**
 
 - 📫 How to reach me **surbhitvishwakarma7@gmail.com**
 
 - ⚡ Fun fact **I spend most of my time either watching football or anime**
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surbhit-vishwakarma&show_icons=true&locale=en&layout=compact" alt="surbhit-vishwakarma" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhit-vishwakarma&" alt="surbhit-vishwakarma" width="400" height="150"/></p>
 
