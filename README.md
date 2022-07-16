@@ -8,6 +8,7 @@
 
 - ⚡ Fun fact **I spend most of my time either watching football or anime**
 
+- 😳 To know more about me - **Click on "WELCOME TO MY PROFILE" above** ☝️ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surbhit-vishwakarma&show_icons=true&locale=en&layout=compact" alt="surbhit-vishwakarma" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhit-vishwakarma&" alt="surbhit-vishwakarma" width="400" height="150"/></p>
