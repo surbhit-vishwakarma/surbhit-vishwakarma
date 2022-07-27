@@ -1,4 +1,4 @@
-<p align="right"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"> <img src="https://github.com/surbhit-vishwakarma/surbhit-vishwakarma/blob/main/ezgif-2-5660d73aa6.gif" alt="c" width="1000" height="320"/> </a></p>
+<p align="right"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"> <img src="https://github.com/surbhit-vishwakarma/surbhit-vishwakarma/blob/main/ezgif-2-5660d73aa6.gif" alt="c" width="950" height="320"/> </a></p>
 <h1 align="center">Hi 👋 I'm Surbhit Vishwakarma</h1>
 <h3 align="center">Backend Developer</h3>
 
